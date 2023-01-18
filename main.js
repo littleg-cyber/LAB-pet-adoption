@@ -13,7 +13,8 @@ const pets = [
       color: "Brown",
       specialSkill: "Just picks the tomatoes off of a sandwich instead of requesting a whole new sandwich.",
       type: "dino",
-      imageUrl: "http://www.jozilife.co.za/wp-content/uploads/The-Dino-Expo.jpg",
+      imageUrl: "http://www.jozilife.co.za/wp-content/uploads/The-Dino-Expo.jpg", 
+    
     },
     {
       id: 3,
@@ -240,3 +241,21 @@ const pets = [
       imageUrl: "http://lsae2.iypcdn.com/static//modules/uploads/photos/language1/dino-live-22.jpg?119"
     }
   ];
+
+const container = document.querySelector(".container");
+let domString = "";
+
+for (const pet of pets) {
+  domString += `<div class="card" style="width: 18rem;">
+    <img src="${pet.imageUrl}" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">${pet.name}</h5>
+      <h6>${pet.color}</h6>
+      <p class="card-text">${pet.specialSkill}</p>
+      <h5>${pet.type}</h5>
+      <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+  </div>`;
+}
+
+container.innerHTML = domString;
