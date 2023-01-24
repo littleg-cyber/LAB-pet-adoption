@@ -1,5 +1,15 @@
-.cards {
+#container {
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
+  justify-content: space-around; 
+}
+
+h1 {
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
 }
