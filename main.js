@@ -12,8 +12,8 @@ const pets = [
       name: "Trouble",
       color: "Brown",
       specialSkill: "Just picks the tomatoes off of a sandwich instead of requesting a whole new sandwich.",
-      type: "dino",
-      imageUrl: "http://www.jozilife.co.za/wp-content/uploads/The-Dino-Expo.jpg", 
+      type: "dino", 
+      imageUrl: "https://images.unsplash.com/photo-1583144006017-74800d22ed08?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
     
     },
     {
@@ -62,7 +62,7 @@ const pets = [
       color: "Grey",
       specialSkill: "Comfortable in the outdoors for up to eight hours.",
       type: "dino",
-      imageUrl: "http://www.theouthousers.com/images/jck//ThanosCopter/news/grumpasaur.jpg"
+      imageUrl: "https://images.unsplash.com/photo-1547029446-6eec6da07d9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
     },
     {
       id: 9,
@@ -86,7 +86,7 @@ const pets = [
       color: "Orange",
       specialSkill: "Can be around food without staring creepily at it.",
       type: "dino",
-      imageUrl: "http://www.cantref.com/userfiles/events/walking%20dino.jpg?w=600"
+      imageUrl: "https://images.unsplash.com/photo-1601301844005-bc1c60c54ec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
       id: 12,
@@ -102,7 +102,7 @@ const pets = [
       color: "Red",
       specialSkill: "Expertly quotes and recognizes dialogue from early seasons of The Simpsons.",
       type: "dog",
-      imageUrl: "http://1kjkdg1axrkd2g03cnboj761.wpengine.netdna-cdn.com/wp-content/uploads/2017/12/braydon-anderson-105552-e1512684107659.jpg"
+      imageUrl: "https://images.unsplash.com/photo-1561037404-61cd46aa615b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
       id: 14,
@@ -126,7 +126,7 @@ const pets = [
       color: "Brown",
       specialSkill: "Drives at a safe rate of speed in snow or rain.",
       type: "dino",
-      imageUrl: "https://images.readwrite.com/wp-content/uploads/2018/03/t-rex-dino-quiz-e1490854556549.jpg"
+      imageUrl: "https://images.unsplash.com/photo-1557452525-2d49eccfb199?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1348&q=80"
     },
     {
      id: 17,
@@ -134,7 +134,7 @@ const pets = [
       color: "Yellow",
       specialSkill: "Does not freak out if you haven’t seen his favorite movie (The Big Lebowski).",
       type: "cat",
-      imageUrl: "http://www.funnycatsite.com/pictures/Close_Up_Yawn.jpg"
+      imageUrl: "https://images.unsplash.com/photo-1511275539165-cc46b1ee89bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
       id: 18,
@@ -142,7 +142,7 @@ const pets = [
       color: "Brown",
       specialSkill: "Proficient in air guitar",
       type: "dino",
-      imageUrl: "https://www.nation.co.ke/image/view/-/4078922/highRes/1742693/-/maxw/600/-/1453yvh/-/DINO.jpg"
+      imageUrl: "https://images.unsplash.com/photo-1630771076060-1c0553e4e41f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
       id: 19,
@@ -150,7 +150,7 @@ const pets = [
       color: "Blue",
       specialSkill: "Listens attentively to boring stories.",
       type: "dog",
-      imageUrl: "http://dailynewsdig.com/wp-content/uploads/2014/03/Creative-And-Funny-Dog-Stock-Photography-Pictures-2.jpg"
+      imageUrl: "https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
     },
     {
       id: 20,
@@ -158,7 +158,7 @@ const pets = [
       color: "Black",
       specialSkill: "Uses litter box at appropriate hours.",
       type: "cat",
-      imageUrl: "http://www.funnycatsite.com/pictures/Lazy_White_Cat.jpg"
+      imageUrl: "https://images.unsplash.com/photo-1598188306155-25e400eb5078?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80g"
     },
     {
       id: 21,
@@ -166,7 +166,7 @@ const pets = [
       color: "Red",
       specialSkill: "Owns a Nintendo Power Glove.",
       type: "dino",
-      imageUrl: "https://img.buzzfeed.com/buzzfeed-static/static/2015-11/2/12/enhanced/webdr15/anigif_enhanced-29802-1446485228-10.gif?crop=250:165;0,0&downsize=715"
+      imageUrl: "https://images.unsplash.com/photo-1630771076678-ef25bff06942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
         id: 22,
@@ -174,7 +174,7 @@ const pets = [
       color: "Orange",
       specialSkill: "Is comfortable with jokes about his receding hairline.",
       type: "cat",
-      imageUrl: "http://funnyanimalphoto.com/wp-content/uploads/2013/08/cat_caught_mouse_thegatewaypundit.jpg"
+      imageUrl: "https://images.unsplash.com/photo-1511044568932-338cba0ad803?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
         id: 23,
@@ -190,7 +190,7 @@ const pets = [
       color: "Brown",
       specialSkill: "Participates in karaoke but does not force others to go out to karaoke.",
       type: "dog",
-      imageUrl: "http://www.dogbreedplus.com/dog_breeds/images/basset-hound-4.jpg"
+      imageUrl: "https://images.unsplash.com/photo-1587300003388-59208cc962cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
       id: 25,
@@ -198,7 +198,7 @@ const pets = [
       color: "Red",
       specialSkill: "Knows the words to 4 rap songs.",
       type: "cat",
-      imageUrl: "http://funbk.s3.amazonaws.com/wp-content/uploads/2016/06/funny-cat-video-which-will-make-you-laugh-louder.jpg"
+      imageUrl: "https://images.unsplash.com/photo-1478098711619-5ab0b478d6e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80g"
     },
     {
         id: 26,
@@ -230,7 +230,7 @@ const pets = [
       color: "Green",
       specialSkill: "Gives hugs with appropriate pressure and for the right length of time.",
       type: "cat",
-      imageUrl: "http://img.izismile.com/img/img2/20090219/cats_02.jpg"
+      imageUrl: "https://images.unsplash.com/photo-1519052537078-e6302a4968d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
         id: 30,
@@ -238,24 +238,132 @@ const pets = [
       color: "Red",
       specialSkill: "Doesn’t get weirded out by the word “moist.”",
       type: "dino",
-      imageUrl: "http://lsae2.iypcdn.com/static//modules/uploads/photos/language1/dino-live-22.jpg?119"
+      imageUrl: "https://images.unsplash.com/photo-1633876204719-dd74580764ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGRpbm9zYXVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
     }
   ];
+// Render to DOM utility function
+  const renderToDom = (divId, htmlToRender) => {
+    const selectedDiv = document.querySelector(divId);
+    selectedDiv.innerHTML = htmlToRender;
+  };
 
-const container = document.querySelector(".container");
-let domString = "";
 
-for (const pet of pets) {
-  domString += `<div class="card" style="width: 18rem;">
+//  get the cards on the DOM
+const cardsOnDom = (array) => {
+  let domString = ""
+  for (const pet of array) {
+    domString += 
+    `<div class="card" style="width: 18rem;">
     <img src="${pet.imageUrl}" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">${pet.name}</h5>
       <h6>${pet.color}</h6>
       <p class="card-text">${pet.specialSkill}</p>
       <h5>${pet.type}</h5>
-      <a href="#" class="btn btn-primary">Go somewhere</a>
+      <button class="btn btn-danger" id="delete--${pet.id}">Delete</button>
     </div>
-  </div>`;
-}
+  </div>`
+  }
 
-container.innerHTML = domString;
+ renderToDom("#container", domString);
+};
+
+//function to filter teammates with specific favorite color
+const filter = (pets, typeString) => {
+  const typeArray = []
+  for (const pet of pets) {
+    if (pet.type === typeString) {
+      typeArray.push(pet);
+    }
+  }
+
+  return typeArray;
+};
+
+// target all buttons on the DOM
+const showCatsButton = document.querySelector("#cats");
+const showDogsButton = document.querySelector("#dogs");
+const showDinosButton = document.querySelector("#dinos");
+const showAllButton = document.querySelector("#all-pets");
+
+// add click event to show all the cards on button click
+showAllButton.addEventListener("click", () => {
+  cardsOnDom(pets);
+});
+
+// add click event to filter all cards that are cats on button click
+showCatsButton.addEventListener("click", () => {
+  const CatsForAdoption = filter(pets, "cat");
+  cardsOnDom(CatsForAdoption);
+});
+
+showDogsButton.addEventListener("click", () => {
+  const DogsForAdoption = filter(pets, "dog");
+  cardsOnDom(DogsForAdoption);
+});
+
+showDinosButton.addEventListener("click", () => {
+  const DinosForAdoption = filter(pets, "dino");
+  cardsOnDom(DinosForAdoption);
+});
+
+// 1. create a function that grabs all the values from the form, pushes the new object to the array, then repaints the DOM with the new teammate
+
+const createPet = (event) => {
+  event.preventDefault();
+  // grab the values from form
+  const name = document.querySelector("#name");
+  const email = document.querySelector("#email");
+  const petType = document.querySelector("#petType");
+  const image = document.querySelector("#image");
+  console.log(name);
+  console.log(name.value);
+
+   // Create an object from values
+    const newPet = {
+    name: name.value,
+    email: email.value,
+    petType: petType.value,
+    image: image.value
+  };
+  console.log("new pet", newPet);
+ // push to team array
+ pets.push(newPet);
+
+ // rerender with new team
+ cardsOnDom(pets);
+};
+
+// 2. Add an event listener for the form submit and pass it the function (callback)
+
+const submitButton = document.querySelector("#form-submit");
+submitButton.addEventListener("click", createPet);
+
+// DELETE BUTTON
+
+// 1. Target the app div
+const containerDiv = document.querySelector("#container");
+
+// add an event listener to capture clicks 
+containerDiv.addEventListener("click", (event) => {
+  // 3. check e.target.id includes "delete"
+  if (event.target.id.includes("delete")) {
+    // 4. add logic to remove from array
+    const [throwAWAY, petId] = event.target.id.split("--");
+    // what object needs to be removed and I know my petID. Find where the object we want to delete is in the array
+    const indexOfPet = pets.findIndex (
+      (object) => object.id === Number(petId)
+    );
+    // now we can splice to delete the object at the index
+    pets.splice(indexOfPet, 1);
+  }
+  // 5. Repaint the DOM with the updated array 
+  cardsOnDom(pets);
+
+}); 
+
+const startApp = () => {
+  cardsOnDom(pets);
+};
+
+startApp();
